@@ -1,0 +1,7 @@
+#spring mvc
+
+
+what is spring mvc?
+* spring mvc is java framework which is used to build web-applications.
+* it follows model-view-controller design pattern
+* it implements core features of spring like ioc, dependency injection
